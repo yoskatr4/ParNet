@@ -1,0 +1,7 @@
+subprocess
+psutil
+webbrowser
+winsound
+datetime
+speech_recognition
+pyaudio
